@@ -1,0 +1,13 @@
+{
+    "require": {
+        "phpunit/phpunit": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Unicorn\\": "app/"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^3.1"
+    }
+}
